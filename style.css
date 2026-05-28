@@ -239,7 +239,7 @@ footer{
     rgba(0,0,0,0.7)),
     url('img/foto.jpeg');
 
-    background-size: cover;
+    background-size: 50%;
     background-position: center;
     display: flex;
     justify-content: center;
