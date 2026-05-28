@@ -246,7 +246,7 @@ footer{
     align-items: center;
     text-align: center;
 }
-.logo{
+.escudo{
   display:flex;
   align-items:center;
   gap:10px;
@@ -254,7 +254,7 @@ footer{
   font-weight:bold;
 }
 
-.logo img{
+.escudo img{
   width:45px;
   height:45px;
   object-fit:contain;
