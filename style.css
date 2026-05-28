@@ -240,7 +240,7 @@ footer{
     rgba(0,0,0,0.7)),
     url('img/portada.png');
 
-    background-size: cover;
+    background-size: 110%;
     background-position: center center;
     background-repeat: no-repeat;
 
