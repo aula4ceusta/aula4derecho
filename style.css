@@ -249,7 +249,7 @@ footer{
 .escudo{
   display:flex;
   align-items:center;
-  gap:10px;
+  gap:200px;
   font-size:24px;
   font-weight:bold;
 }
