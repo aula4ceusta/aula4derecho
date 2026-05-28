@@ -240,7 +240,7 @@ footer{
     url('img/foto.jpeg');
 
     background-size: 50%;
-    background-position: center;
+    background-position: center center;
     display: flex;
     justify-content: center;
     align-items: center;
