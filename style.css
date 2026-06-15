@@ -138,6 +138,9 @@ nav a:hover{
   border-radius:8px;
   text-decoration:none;
 }
+.card p{
+    line-height:1.8;
+}
 
 /* NOSOTROS */
 
